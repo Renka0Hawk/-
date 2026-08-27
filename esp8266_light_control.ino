@@ -2,8 +2,8 @@
 #include <ESP8266WebServer.h>
 
 // ===== ตั้งค่า WiFi ของคุณตรงนี้ =====
-const char* ssid     = "YOUR_WIFI_SSID";       // TODO: ใส่ชื่อ WiFi ของคุณ
-const char* password = "YOUR_WIFI_PASSWORD";   // TODO: ใส่รหัสผ่าน WiFi ของคุณ
+const char* ssid     = "BOOM_8595";       // TODO: ใส่ชื่อ WiFi ของคุณ
+const char* password = "aM450=79";   // TODO: ใส่รหัสผ่าน WiFi ของคุณ
 
 // ===== ตั้งค่าขาควบคุมไฟ/รีเลย์ =====
 // โหมดทดสอบ (ค่าเริ่มต้น): ใช้ "LED ในตัวบอร์ด" (สีน้ำเงิน ใกล้ชิพ WiFi)
